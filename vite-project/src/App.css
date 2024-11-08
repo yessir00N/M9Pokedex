@@ -1,0 +1,24 @@
+body {
+  background-color: #f2f2f2;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h1 {
+  color: #ef5350;
+}
+
+ul {
+  text-align: left;
+  display: inline-block;
+}
